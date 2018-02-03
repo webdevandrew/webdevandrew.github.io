@@ -6,6 +6,9 @@ body {
 img {
 	max-width: 100%;
 }
+button {
+	 outline: none;
+}
 header {
 	padding-top: 59px;
 	background-color: #3a7dfd;
